@@ -1,0 +1,1 @@
+export { default } from 'color-display/components/display-component';

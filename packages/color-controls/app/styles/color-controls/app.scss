@@ -1,0 +1,19 @@
+.button-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: 10px auto;
+  justify-content: space-between;
+}
+
+.button {
+  width: 20em;
+  height: 40px;
+  line-height: 40px;
+  font-size: 20px;
+  border: 1px solid lightgray;
+
+  &.active {
+    border: 2px solid blue;
+  }
+}

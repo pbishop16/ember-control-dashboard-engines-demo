@@ -1,0 +1,1 @@
+export { default } from 'color-controls/components/color-button';
