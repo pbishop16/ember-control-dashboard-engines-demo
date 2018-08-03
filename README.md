@@ -1,6 +1,6 @@
 # ember-control-dashboard-engines-demo
 
-This is a demo application displaying the use of [ember-engines](http://ember-engines.com/)
+This is a demo application displaying the use of [ember-engines](http://ember-engines.com/). The parent Ember application serves as the main dashboard. Then there is a child engine which serves as the display for the selected color. Finally, the remaining engine provides controls to allow the changing of the displayed color.
 
 1. Requirements
 
@@ -22,4 +22,3 @@ yarn
 yarn start
 ```
 - Access the app at url [localhost:4200](http://localhost:4200)
-
