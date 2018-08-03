@@ -1,0 +1,13 @@
+{
+  "name": "ember-control-dashboard-engines-demo",
+  "private": true,
+  "scripts": {
+    "start": "cd packages/control-dashboard && ember serve"
+  },
+  "devDependencies": {
+    "lerna": "^3.0.0-rc.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
